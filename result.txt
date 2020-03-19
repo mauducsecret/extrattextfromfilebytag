@@ -1,127 +1,132 @@
-<Trans>Welcome back.</Trans>
-<Trans>Don"t have an account ?</Trans>
-<Trans>Sign up</Trans>
-<Trans>Forgot Password ?</Trans>
-<Trans>Sign In</Trans>
-<Trans>Email is required</Trans>
-<Trans>Password is required</Trans>
-<Trans>Reset password.</Trans>
-<Trans>Set a new password for</Trans>
-<Trans>Confirm</Trans>
-<Trans>You password was reset.</Trans>
-<Trans>Set up your Bands.</Trans>
-<Trans>Add</Trans>
-<Trans>Cancel</Trans>
-<Trans>Set up your Skill Group.</Trans>
-<Trans>Set up your Bussiness Domain.</Trans>
-<Trans>Update</Trans>
-<Trans>Page not found</Trans>
-<Trans>Name</Trans>
-<Trans>Position</Trans>
-<Trans>Office</Trans>
-<Trans>Age</Trans>
-<Trans>Start date</Trans>
-<Trans>Salary</Trans>
-<Trans>Menu</Trans>
-<Trans>Home</Trans>
-<Trans>Department</Trans>
-<Trans>Skill</Trans>
-<Trans>Skill Group</Trans>
-<Trans>Positions</Trans>
-<Trans>Responesibilities</Trans>
-<Trans>Employees</Trans>
-<Trans>Team</Trans>
-<Trans>Organization Templates</Trans>
-<Trans>Dpartment Template</Trans>
-<Trans>BusinessDomain</Trans>
-<Trans>Responsibilities</Trans>
-<Trans>ORGANIZATION ACCOUNT</Trans>
-<Trans>DETAILS</Trans>
-<Trans>TEAM</Trans>
-<Trans>ACCOUNTS</Trans>
-<Trans>EN</Trans>
-<Trans>VN</Trans>
-<Trans>Account Information</Trans>
-<Trans>Email</Trans>
-<Trans>Password</Trans>
-<Trans>Personal Information</Trans>
-<Trans>First Name</Trans>
-<Trans>Last Name</Trans>
-<Trans>Phone</Trans>
-<Trans>Gender</Trans>
-<Trans>PREVIOUS STEP</Trans>
-<Trans>NEXT</Trans>
-<Trans>Having trouble?</Trans>
-<Trans>Get Help</Trans>
-<Trans>Organization Details</Trans>
-<Trans>Details about your organization</Trans>
-<Trans>Organization Name</Trans>
-<Trans>Business Domain</Trans>
-<Trans>Number of employee</Trans>
-<Trans>Location</Trans>
-<Trans>Recommandation template</Trans>
-<Trans>This is description about template for company</Trans>
-<Trans>Preview Template</Trans>
-<Trans>A few clicks away from creating your career path</Trans>
-<Trans>Start your career path in minutes</Trans>
-<Trans>Save time and money</Trans>
-<Trans>Select one options to continue:</Trans>
-<Trans>Career Development for Individual</Trans>
-<Trans>Talent manager for organization</Trans>
-<Trans>Marilu Henner</Trans>
-<Trans>Start thriving now.</Trans>
-<Trans>Career success is just a few steps away</Trans>
-<Trans>Enter your organizations:</Trans>
-<Trans>COTHRIVE.TECH</Trans>
-<Trans>COTHRIVE.NET</Trans>
-<Trans>Or sign up a new account by enter email adress</Trans>
-<Trans>GET STARTED</Trans>
-<Trans>Next</Trans>
-<Trans>Department Management</Trans>
-<Trans>Department Name</Trans>
-<Trans>Desription</Trans>
-<Trans>Number Employees</Trans>
-<Trans>Actived</Trans>
-<Trans>Disable</Trans>
-<Trans>Enbale</Trans>
-<Trans>Add Department</Trans>
-<Trans>Back</Trans>
-<Trans>Create Employees</Trans>
-<Trans>Department information detail</Trans>
-<Trans>Set up your Department.</Trans>
-<Trans>Employee Management</Trans>
-<Trans>Employee Name</Trans>
-<Trans>Employee Email</Trans>
-<Trans>Role</Trans>
-<Trans>Create Team</Trans>
-<Trans>Set up your Employees.</Trans>
-<Trans>Set up your Grade.</Trans>
-<Trans>Create Department</Trans>
-<Trans>Set up your team.</Trans>
-<Trans>Organization template information</Trans>
-<Trans>Add new business domain</Trans>
-<Trans>Add new department template</Trans>
-<Trans>Add new careerpath template</Trans>
-<Trans>Organization information.</Trans>
-<Trans>Organization template information.</Trans>
-<Trans>Create Skill</Trans>
-<Trans>Create Responsibilities</Trans>
-<Trans>Set up your Position.</Trans>
-<Trans>Set up your Responsibilities.</Trans>
-<Trans>Set Responsibility Template.</Trans>
-<Trans>Responseibilities Management</Trans>
-<Trans>Responesibilities Name</Trans>
-<Trans>Created At</Trans>
-<Trans>Create Responesibilities</Trans>
-<Trans>Create Skillgroup</Trans>
-<Trans>Set up your Skill.</Trans>
-<Trans>Skill Management</Trans>
-<Trans>Skill Name</Trans>
-<Trans>Group Name</Trans>
-<Trans>Skillgroup Management</Trans>
-<Trans>Create At</Trans>
-<Trans>Update up your Skill Group.</Trans>
-<Trans>Team Management</Trans>
-<Trans>Team Name</Trans>
-<Trans>Description</Trans>
-<Trans>Update Team</Trans>
+"Forgot Password ?":"Quên Mật Khẩu ?",
+"Sign In":"Đừng Trong",
+"Email is required":"Email là cần thiết",
+"Send Email":"Gửi Email",
+"Password is required":"Mật khẩu là cần thiết",
+"We have send you a reset email.":"Chúng tôi đã gửi cho bạn một thiết lập lại email.",
+"Reset password.":"Lại mật khẩu.",
+"Don"t have an account ?":"Không"t có một tài khoản ?",
+"We have you covered.":"Chúng tôi có bạn có bảo hiểm.",
+"Welcome back.":"Chào mừng trở lại.",
+"Sign up":"Đăng ký",
+"Request a reset password email.":"Yêu cầu một mật khẩu email.",
+"Set a new password for":"Thiết lập một mật khẩu mới trong",
+"You password was reset.":"Bạn mật khẩu đã được thiết lập lại.",
+"Cancel":"Hủy",
+"Confirm":"Xác nhận",
+"Make sure to also check your spam folder.":"Hãy chắc chắn cũng kiểm tra các thư mục.",
+"Set up your Bands.":"Thiết lập của Ban nhạc.",
+"Set up your Bussiness Domain.":"Thiết lập kinh Doanh lĩnh Vực.",
+"Set up your Skill Group.":"Thiết lập Nhóm Kỹ năng.",
+"Name":"Tên",
+"Add":"Thêm",
+"Update":"Cập nhật",
+"Office":"Văn phòng",
+"Age":"Tuổi",
+"Page not found":"Không tìm thấy trang",
+"Position":"Vị trí",
+"Salary":"Lương",
+"Start date":"Bắt đầu ngày",
+"Menu":"Đơn",
+"Department":"Bộ phận",
+"Skill":"Kỹ năng",
+"Skill Group":"Kỹ Năng Nhóm",
+"Responesibilities":"Responesibilities",
+"Home":"Nhà",
+"Employees":"Nhân viên",
+"Positions":"Vị trí",
+"Team":"Đội",
+"Responsibilities":"Trách nhiệm",
+"ORGANIZATION ACCOUNT":"TỔ CHỨC TÀI KHOẢN",
+"Organization Templates":"Tổ Chức Mẫu",
+"Dpartment Template":"Dpartment Mẫu",
+"DETAILS":"Chi TIẾT",
+"TEAM":"ĐỘI",
+"ACCOUNTS":"Tài KHOẢN",
+"EN":"VI",
+"Email":"Email",
+"VN":"VN",
+"First Name":"Tên Đầu Tiên",
+"BusinessDomain":"BusinessDomain",
+"Account Information":"Thông Tin Tài Khoản",
+"Last Name":"Cuối Cùng Tên",
+"Personal Information":"Thông Tin Cá Nhân",
+"Password":"Mật khẩu",
+"PREVIOUS STEP":"BƯỚC TRƯỚC",
+"Phone":"Điện thoại",
+"NEXT":"TIẾP theo",
+"Get Help":"Được Giúp Đỡ",
+"Details about your organization":"Chi tiết về tổ chức của bạn",
+"Gender":"Giới",
+"Organization Name":"Tên Tổ Chức",
+"Organization Details":"Tổ Chức Chi Tiết",
+"Number of employee":"Số của nhân viên",
+"Recommandation template":"Nhận mẫu",
+"Location":"Vị trí",
+"Having trouble?":"Có gặp rắc rối?",
+"Preview Template":"Xem Trước Mẫu",
+"This is description about template for company":"Đây là mô tả về mẫu cho công ty",
+"A few clicks away from creating your career path":"Một vài cú đi từ tạo ra con đường sự nghiệp",
+"Business Domain":"Kinh Doanh Miền",
+"Save time and money":"Tiết kiệm thời gian và tiền bạc",
+"Talent manager for organization":"Quản lý tài năng cho tổ chức",
+"Career Development for Individual":"Sự phát Triển cho Cá nhân",
+"Select one options to continue:":"Chọn một lựa chọn để có thể tiếp tục:",
+"Start thriving now.":"Bắt đầu phát triển mạnh bây giờ.",
+"Marilu Henner":"Marilu Henner",
+"COTHRIVE.TECH":"COTHRIVE.Công NGHỆ cao",
+"Career success is just a few steps away":"Sự nghiệp thành công chỉ là một vài bước đi",
+"GET STARTED":"HÃY BẮT ĐẦU",
+"Enter your organizations:":"Nhập tổ chức của các bạn:",
+"Next":"Tiếp theo",
+"Or sign up a new account by enter email adress":"Hay đăng ký một tài khoản mới của nhập địa chỉ email",
+"Department Management":"Bộ Phận Quản Lý",
+"COTHRIVE.NET":"COTHRIVE.NET",
+"Number Employees":"Số Nhân Viên",
+"Desription":"Hoành tráng",
+"Start your career path in minutes":"Bắt đầu con đường sự nghiệp trong vài phút",
+"Department Name":"Tên Bộ Phận",
+"Enbale":"Enbale",
+"Disable":"Vô hiệu hóa",
+"Actived":"Hoạt tính",
+"Add Department":"Thêm Phận",
+"Create Employees":"Tạo Nhân Viên",
+"Department information detail":"Bộ thông tin chi tiết",
+"Set up your Department.":"Thành lập bộ Phận của bạn.",
+"Back":"Trở lại",
+"Employee Management":"Nhân Viên, Quản Lý",
+"Employee Name":"Tên Nhân Viên",
+"Employee Email":"Nhân Viên Email",
+"Create Team":"Tạo Đội",
+"Role":"Vai trò",
+"Set up your Grade.":"Thiết lập của Lớp.",
+"Set up your Employees.":"Thiết lập Nhân viên của bạn.",
+"Set up your team.":"Thiết lập đội bóng.",
+"Add new careerpath template":"Thêm mới careerpath mẫu",
+"Organization template information":"Tổ chức mẫu thông tin",
+"Organization template information.":"Tổ chức mẫu thông tin.",
+"Add new business domain":"Thêm kinh doanh mới miền",
+"Create Department":"Tạo Ra Bộ Phận",
+"Create Responsibilities":"Tạo Trách Nhiệm",
+"Organization information.":"Thông tin tổ chức.",
+"Add new department template":"Thêm bộ phận mới mẫu",
+"Create Skill":"Tạo Kỹ Năng",
+"Set up your Position.":"Thiết lập vị Trí.",
+"Set Responsibility Template.":"Bộ Trách Nhiệm Mẫu.",
+"Set up your Responsibilities.":"Thiết lập trách Nhiệm của bạn.",
+"Responesibilities Name":"Responesibilities Tên",
+"Responseibilities Management":"Responseibilities Quản Lý",
+"Skill Management":"Kỹ Năng Quản Lý",
+"Created At":"Tạo Ra Tại",
+"Create Responesibilities":"Tạo Responesibilities",
+"Create Skillgroup":"Tạo Skillgroup",
+"Skillgroup Management":"Skillgroup Quản Lý",
+"Set up your Skill.":"Thiết lập Kỹ năng của bạn.",
+"Skill Name":"Tên Kỹ Năng",
+"Group Name":"Tên Nhóm",
+"Create At":"Tạo Tại",
+"Team Name":"Tên Đội",
+"Team Management":"Đội Quản Lý",
+"Update up your Skill Group.":"Cập nhật của bạn Kỹ năng Nhóm.",
+"Update Team":"Cập Nhật Đội",
+"Description":"Mô tả",
