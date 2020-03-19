@@ -1,0 +1,127 @@
+<Trans>Welcome back.</Trans>
+<Trans>Don"t have an account ?</Trans>
+<Trans>Sign up</Trans>
+<Trans>Forgot Password ?</Trans>
+<Trans>Sign In</Trans>
+<Trans>Email is required</Trans>
+<Trans>Password is required</Trans>
+<Trans>Reset password.</Trans>
+<Trans>Set a new password for</Trans>
+<Trans>Confirm</Trans>
+<Trans>You password was reset.</Trans>
+<Trans>Set up your Bands.</Trans>
+<Trans>Add</Trans>
+<Trans>Cancel</Trans>
+<Trans>Set up your Skill Group.</Trans>
+<Trans>Set up your Bussiness Domain.</Trans>
+<Trans>Update</Trans>
+<Trans>Page not found</Trans>
+<Trans>Name</Trans>
+<Trans>Position</Trans>
+<Trans>Office</Trans>
+<Trans>Age</Trans>
+<Trans>Start date</Trans>
+<Trans>Salary</Trans>
+<Trans>Menu</Trans>
+<Trans>Home</Trans>
+<Trans>Department</Trans>
+<Trans>Skill</Trans>
+<Trans>Skill Group</Trans>
+<Trans>Positions</Trans>
+<Trans>Responesibilities</Trans>
+<Trans>Employees</Trans>
+<Trans>Team</Trans>
+<Trans>Organization Templates</Trans>
+<Trans>Dpartment Template</Trans>
+<Trans>BusinessDomain</Trans>
+<Trans>Responsibilities</Trans>
+<Trans>ORGANIZATION ACCOUNT</Trans>
+<Trans>DETAILS</Trans>
+<Trans>TEAM</Trans>
+<Trans>ACCOUNTS</Trans>
+<Trans>EN</Trans>
+<Trans>VN</Trans>
+<Trans>Account Information</Trans>
+<Trans>Email</Trans>
+<Trans>Password</Trans>
+<Trans>Personal Information</Trans>
+<Trans>First Name</Trans>
+<Trans>Last Name</Trans>
+<Trans>Phone</Trans>
+<Trans>Gender</Trans>
+<Trans>PREVIOUS STEP</Trans>
+<Trans>NEXT</Trans>
+<Trans>Having trouble?</Trans>
+<Trans>Get Help</Trans>
+<Trans>Organization Details</Trans>
+<Trans>Details about your organization</Trans>
+<Trans>Organization Name</Trans>
+<Trans>Business Domain</Trans>
+<Trans>Number of employee</Trans>
+<Trans>Location</Trans>
+<Trans>Recommandation template</Trans>
+<Trans>This is description about template for company</Trans>
+<Trans>Preview Template</Trans>
+<Trans>A few clicks away from creating your career path</Trans>
+<Trans>Start your career path in minutes</Trans>
+<Trans>Save time and money</Trans>
+<Trans>Select one options to continue:</Trans>
+<Trans>Career Development for Individual</Trans>
+<Trans>Talent manager for organization</Trans>
+<Trans>Marilu Henner</Trans>
+<Trans>Start thriving now.</Trans>
+<Trans>Career success is just a few steps away</Trans>
+<Trans>Enter your organizations:</Trans>
+<Trans>COTHRIVE.TECH</Trans>
+<Trans>COTHRIVE.NET</Trans>
+<Trans>Or sign up a new account by enter email adress</Trans>
+<Trans>GET STARTED</Trans>
+<Trans>Next</Trans>
+<Trans>Department Management</Trans>
+<Trans>Department Name</Trans>
+<Trans>Desription</Trans>
+<Trans>Number Employees</Trans>
+<Trans>Actived</Trans>
+<Trans>Disable</Trans>
+<Trans>Enbale</Trans>
+<Trans>Add Department</Trans>
+<Trans>Back</Trans>
+<Trans>Create Employees</Trans>
+<Trans>Department information detail</Trans>
+<Trans>Set up your Department.</Trans>
+<Trans>Employee Management</Trans>
+<Trans>Employee Name</Trans>
+<Trans>Employee Email</Trans>
+<Trans>Role</Trans>
+<Trans>Create Team</Trans>
+<Trans>Set up your Employees.</Trans>
+<Trans>Set up your Grade.</Trans>
+<Trans>Create Department</Trans>
+<Trans>Set up your team.</Trans>
+<Trans>Organization template information</Trans>
+<Trans>Add new business domain</Trans>
+<Trans>Add new department template</Trans>
+<Trans>Add new careerpath template</Trans>
+<Trans>Organization information.</Trans>
+<Trans>Organization template information.</Trans>
+<Trans>Create Skill</Trans>
+<Trans>Create Responsibilities</Trans>
+<Trans>Set up your Position.</Trans>
+<Trans>Set up your Responsibilities.</Trans>
+<Trans>Set Responsibility Template.</Trans>
+<Trans>Responseibilities Management</Trans>
+<Trans>Responesibilities Name</Trans>
+<Trans>Created At</Trans>
+<Trans>Create Responesibilities</Trans>
+<Trans>Create Skillgroup</Trans>
+<Trans>Set up your Skill.</Trans>
+<Trans>Skill Management</Trans>
+<Trans>Skill Name</Trans>
+<Trans>Group Name</Trans>
+<Trans>Skillgroup Management</Trans>
+<Trans>Create At</Trans>
+<Trans>Update up your Skill Group.</Trans>
+<Trans>Team Management</Trans>
+<Trans>Team Name</Trans>
+<Trans>Description</Trans>
+<Trans>Update Team</Trans>
